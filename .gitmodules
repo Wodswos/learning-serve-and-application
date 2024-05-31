@@ -1,0 +1,3 @@
+[submodule "llm/AutoGPT"]
+	path = llm/AutoGPT
+	url = https://github.com/Wodswos/AutoGPT.git
