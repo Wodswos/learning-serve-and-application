@@ -1,6 +1,0 @@
-[submodule "langchain-repo"]
-	path = langchain-repo
-	url = https://github.com/langchain-ai/langchain.git
-[submodule "langgraph-repo"]
-	path = langgraph-repo
-	url = https://github.com/langchain-ai/langgraph.git
